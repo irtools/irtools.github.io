@@ -8,7 +8,7 @@ The **irtools** team currently includes:
 
 * Timo Bechger, Cito
 * Jesse Koops, Cito
-* Gunter Maris, Cito and UvA
+* Gunter Maris, ACT Next
 * Ivailo Partchev, Cito and KULeuven
 * Robert Zwitser, UvA
 
